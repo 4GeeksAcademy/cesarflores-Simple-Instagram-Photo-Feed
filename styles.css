@@ -1,0 +1,49 @@
+body {
+    background-color:lightgray;
+    margin: auto;
+}
+header {
+    background-color: lightgray;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    padding: 8px 21% 15px 20%;
+}
+h1 {
+    width: 600px;
+    margin: auto;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.post {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 45px;
+    width: 600px;
+}
+.header {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+h2 {
+    margin: 0px;
+    padding: 10px 10px 10px 10px;
+}
+span {
+    font-weight: 400;
+    padding: 15px 15px 0px 0px;
+    color: rgb(162, 161, 161);
+}
+img {
+    height: 450px;
+    width: 100%
+}
+.paragraph {
+    margin-bottom: -10px;
+}
+p {
+    padding: 0px 47px 20px 20px;
+}
